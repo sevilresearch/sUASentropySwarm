@@ -12,7 +12,7 @@ This project is based on entropy swarm behavior modeling from:
 - Molina, Juan Jose, "Small Unmanned Aircraft Systems Entropy Swarm", UWF, expected 2026.
 
 ## Related work
-- Fina et al., “Entropy-Based Distributed Behavior Modeling for Multi-Agent UAVs”, Drones, 2022.
+- Fina, L., Smith, D.S., Carnahan, J., Sevil, H.E., “Entropy-Based Distributed Behavior Modeling for Multi-Agent UAVs”. Drones, 6(7), 164, 2022.
 (Also see sevilresearch/EntropySwarm for reference materials.)
 
 
