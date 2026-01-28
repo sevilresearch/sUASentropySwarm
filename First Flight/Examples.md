@@ -1,11 +1,16 @@
 # EXAMPLES
 
 
-
-## Hardware
+## Requeriments
+### Hardware
 - Crazyflie 2.x + battery
 - Crazyradio 2.0
 - Flow deck (recommended for stable hover indoors)
+
+### Software
+- Python 3 (Bitcraze’s Python tooling is built around cflib)
+- pip for installing Python packages
+- cflib (pip install cflib) — Bitcraze’s Crazyflie Python library used to communicate/control the Crazyflie
 
 ## Example 1 — Hover with Flow deck (Windows, non-ROS2)
 
