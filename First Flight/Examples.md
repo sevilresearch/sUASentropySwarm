@@ -1,5 +1,5 @@
 # EXAMPLES
-
+These examples are a step-by-step onboarding path for flying Crazyflies and validating core capabilities before running the ROS2 entropy-swarm controller. They are intentionally simple, conservative, and designed to be repeatable. Start with single-drone hover, then single-drone waypoint motion, and finally two-drone coordinated flight. The scripts in first_flight/ run on Windows (non-ROS2) using Bitcraze’s Python tooling and are meant to confirm your hardware, estimator, and communication link are working reliably.
 
 ## Requeriments
 ### Hardware
