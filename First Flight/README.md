@@ -4,7 +4,7 @@ This project assumes you can perform a safe manual first flight before running a
 
 The steps below summarize Bitcraze’s official “Getting started with Crazyflie 2.0/2.1(+)” tutorial. https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/#inst-comp
 
-## 1) Pre-flight checks (before you ever spin the props)
+## 1) Pre-flight checks 
 
 Run the power-on self-test (before assembly changes). Bitcraze recommends powering the Crazyflie from USB and checking the LED pattern; a fast green blink indicates the self-test passed.
 
@@ -14,7 +14,7 @@ Orientation: the small antenna “bump” is the front and the blue LEDs are at 
 
 ## 2) Choose how you will control it (PC recommended)
 
-You can fly from mobile or computer, but recommends a PC + Crazyradio + gamepad for the most control and options.
+You can fly from mobile or computer, but recommends a PC + Crazyradio.
 
 ## 3) Install and start the Crazyflie client (computer path)
 
