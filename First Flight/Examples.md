@@ -20,7 +20,7 @@ logs `stateEstimate.x/y/z`, and performs:
 - Hover with optional XY auto-hold (recenter toward takeoff point)
 - Land
 
-## Example 2 — Go to ABSOLUTE (x, y, z) with Flow deck (Windows, non-ROS2)
+## Example 2 — Waypoint Navigation (x, y, z) with Flow deck (Windows, non-ROS2)
 
 This GUI script connects to a Crazyflie via Crazyradio, enables Kalman + High-Level Commander,
 logs `stateEstimate.x/y/z`, and moves the drone to a user-defined absolute setpoint (x,y,z)
