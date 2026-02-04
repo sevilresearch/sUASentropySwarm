@@ -1,6 +1,8 @@
 # First flight (Crazyflie 2.x) 
 
-This project assumes you can perform a safe manual first flight before running any ROS2 autonomy. The steps below summarize Bitcraze’s official “Getting started with Crazyflie 2.0/2.1(+)” tutorial. https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/#inst-comp
+This project assumes you can perform a safe manual first flight before running any ROS2 autonomy. 
+
+The steps below summarize Bitcraze’s official “Getting started with Crazyflie 2.0/2.1(+)” tutorial. https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/#inst-comp
 
 ## 1) Pre-flight checks (before you ever spin the props)
 
