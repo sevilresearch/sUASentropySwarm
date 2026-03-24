@@ -5,7 +5,9 @@ This repository runs an entropy-based swarm controller for Crazyflie drones usin
 
 ### Prerequisites
   OS + ROS 2
+  
   Ubuntu 22.04
+  
   ROS 2 Humble installed and sourced
 
 ### Packages you must have
