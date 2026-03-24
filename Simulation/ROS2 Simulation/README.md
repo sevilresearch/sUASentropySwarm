@@ -17,7 +17,7 @@ If you already have Crazyswarm2 working, you’re good.
 
 ## 1. Start the Crazyflie simulation (Crazyswarm2)
 
-###In a new terminal:
+**In a new terminal:**
 
 source /opt/ros/humble/setup.bash
 source ~/ros2_ws/install/setup.bash
@@ -25,7 +25,7 @@ ros2 launch crazyflie launch.py backend:=sim
 
 ### Verify simulation is up
 
-###In another terminal:
+**In another terminal:**
 
 ros2 service list | grep -i takeoff
 ros2 topic list | grep /tf
@@ -38,13 +38,13 @@ You should see CF services (e.g., /CF1/takeoff, /CF2/go_to, etc.) and /tf.
 
 source /opt/ros/humble/setup.bash
 source ~/ros2_ws/install/setup.bash
-### Option A (recommended): run as a ROS 2 node
+**Option A (recommended): run as a ROS 2 node**
 
 If your package installs an executable entrypoint:
 
 ros2 run entropy_swarm entropy_swarm_node
 
-### Option B: run directly with Python (if you’re iterating)
+**Option B: run directly with Python (if you’re iterating)**
 python3 ~/ros2_ws/src/entropy_swarm/entropy_swarm/entropy_swarm_node.py
 
 
