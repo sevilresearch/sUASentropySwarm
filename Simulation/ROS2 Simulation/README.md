@@ -47,13 +47,17 @@ You should see CF services (e.g., /CF1/takeoff, /CF2/go_to, etc.) and /tf.
 
    source ~/ros2_ws/install/setup.bash
 
+
 **Option A (recommended): run as a ROS 2 node**
+
 
 If your package installs an executable entrypoint:
 
 ros2 run entropy_swarm entropy_swarm_node
 
+
 **Option B: run directly with Python (if you’re iterating)**
+
 
    python3 ~/ros2_ws/src/entropy_swarm/entropy_swarm/entropy_swarm_node.py
 
