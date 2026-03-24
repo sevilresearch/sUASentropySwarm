@@ -67,8 +67,13 @@ ros2 run entropy_swarm entropy_swarm_node
 For a stable first simulation:
 
    dmin = 0.30
+   
    dmax = 1.50
+   
    z = 0.50
+   
    threshold = 0.50
+
 closeEnough = 0.60 (if you will later sweep up to dmin=0.40)
+
 EPS = 0.05 (repel earlier = safer)
